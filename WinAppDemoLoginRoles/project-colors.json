@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b38098ba-577e-46d3-b86a-abc95bc1cd21": {
+      "ProjectGuid": "b38098ba-577e-46d3-b86a-abc95bc1cd21",
+      "DisplayName": "WinAppDemoLoginRoles",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

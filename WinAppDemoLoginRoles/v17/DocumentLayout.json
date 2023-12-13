@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38098BA-577E-46D3-B86A-ABC95BC1CD21}|WinAppDemoLoginRoles.csproj|c:\\users\\lenovo\\downloads\\hotel\\vista\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38098BA-577E-46D3-B86A-ABC95BC1CD21}|WinAppDemoLoginRoles.csproj|solutionrelative:vista\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38098BA-577E-46D3-B86A-ABC95BC1CD21}|WinAppDemoLoginRoles.csproj|c:\\users\\lenovo\\downloads\\hotel\\vista\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38098BA-577E-46D3-B86A-ABC95BC1CD21}|WinAppDemoLoginRoles.csproj|solutionrelative:vista\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38098BA-577E-46D3-B86A-ABC95BC1CD21}|WinAppDemoLoginRoles.csproj|c:\\users\\lenovo\\downloads\\hotel\\vista\\menu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B38098BA-577E-46D3-B86A-ABC95BC1CD21}|WinAppDemoLoginRoles.csproj|solutionrelative:vista\\menu principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\Vista\\Menu Principal.cs",
+              "RelativeDocumentMoniker": "Vista\\Menu Principal.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\Vista\\Menu Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Menu Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T21:37:29.47Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\Vista\\Reportes.cs",
+              "RelativeDocumentMoniker": "Vista\\Reportes.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\Vista\\Reportes.cs",
+              "RelativeToolTip": "Vista\\Reportes.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwFIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T21:35:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\Vista\\Reportes.cs",
+              "RelativeDocumentMoniker": "Vista\\Reportes.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\HOTEL\\Vista\\Reportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\Reportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T21:33:21.216Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
